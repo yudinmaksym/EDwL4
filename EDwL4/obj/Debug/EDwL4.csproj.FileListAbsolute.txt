@@ -1,0 +1,9 @@
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\bin\Debug\EDwL4.exe.config
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\bin\Debug\EDwL4.exe
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\bin\Debug\EDwL4.pdb
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\obj\Debug\EDwL4.csprojResolveAssemblyReference.cache
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\obj\Debug\EDwL4.Form1.resources
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\obj\Debug\EDwL4.Properties.Resources.resources
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\obj\Debug\EDwL4.csproj.GenerateResource.Cache
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\obj\Debug\EDwL4.exe
+c:\users\админ\documents\visual studio 2015\Projects\EDwL4\EDwL4\obj\Debug\EDwL4.pdb
